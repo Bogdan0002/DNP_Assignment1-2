@@ -1,0 +1,80 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "UserName": "Bogdan",
+      "Password": "bogdan",
+      "Email": "bogdan@bogdan.com"
+    },
+    {
+      "Id": 2,
+      "UserName": "BO ",
+      "Password": "123123123",
+      "Email": "123@123.com"
+    },
+    {
+      "Id": 3,
+      "UserName": "Troels",
+      "Password": "12345678",
+      "Email": "Mortensen@mortensen.com"
+    },
+    {
+      "Id": 4,
+      "UserName": "Bogdan",
+      "Password": "Pavliuc",
+      "Email": "Bogdan@mail.com"
+    },
+    {
+      "Id": 5,
+      "UserName": "Bogdan1",
+      "Password": "Bogdan1",
+      "Email": "bogdanbogdan@mail.com"
+    }
+  ],
+  "Posts": [
+    {
+      "Id": 1,
+      "Title": "DNP",
+      "Body": "What do you think about the DNP_1 Course? I think this is a very good and informative course with a very nice teacher.",
+      "Creator": {
+        "Id": 1,
+        "UserName": "Bogdan",
+        "Password": "bogdan",
+        "Email": "bogdan@bogdan.com"
+      }
+    },
+    {
+      "Id": 2,
+      "Title": "SDJ_3",
+      "Body": "What do you think about the SDJ_3 Course? I think this is a very good and informative course with a very nice teacher.",
+      "Creator": {
+        "Id": 2,
+        "UserName": "BO ",
+        "Password": "123123123",
+        "Email": "123@123.com"
+      }
+    },
+    {
+      "Id": 3,
+      "Title": "NES_1",
+      "Body": "What do you think about the NES_1 Course? I think this is a very boring, but good to know course with a very nice teacher.",
+      "Creator": {
+        "Id": 3,
+        "UserName": "Troels",
+        "Password": "12345678",
+        "Email": "Mortensen@mortensen.com"
+      }
+    },
+    {
+      "Id": 4,
+      "Title": "CAO_1",
+      "Body": "What do you guys think about CAO course? I really liked it!",
+      "Creator": {
+        "Id": 5,
+        "UserName": "Bogdan1",
+        "Password": "Bogdan1",
+        "Email": "bogdanbogdan@mail.com"
+      }
+    }
+  ]
+}
